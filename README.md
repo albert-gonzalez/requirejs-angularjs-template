@@ -10,7 +10,7 @@ Used technologies:
 
 This RequireJS + AngularJS configuration is based on [this complete tutorial by StarterSquad](https://www.startersquad.com/blog/angularjs-requirejs/).
 
-If you want to see a complete example using this template, visit (Zeldify Your Name)[http://albert-gonzalez.github.io/zeldify-your-name]
+If you want to see a complete example using this template, visit [Zeldify Your Name](http://albert-gonzalez.github.io/zeldify-your-name)
 
 ##Requisites
 * [NodeJS](http://nodejs.org/) and npm
